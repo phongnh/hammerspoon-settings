@@ -465,12 +465,12 @@ local apps = {
 
     { key = "W", name = "Safari"             },
     { key = "E", name = "Mail"               },
-    { key = "R", name = "Wunderlist"         },
+    { key = "R", name = "Preview"            },
     { key = "T", name = "Sublime Text"       },
     { key = "Y", name = "Terminal"           },
     { key = "U", name = "Upwork"             },
     { key = "I", name = "iTerm2"             },
-    { key = "O", name = "oDesk Team"         },
+    { key = "O", name = "LibreOffice"        },
     { key = "P", name = "pgAdmin3"           },
 
     { key = "A", name = "Android Studio"     },
@@ -478,9 +478,6 @@ local apps = {
     { key = "D", name = "GoldenDict"         },
     { key = "F", name = "Finder"             },
     { key = "G", name = "Google Chrome"      },
-
-    { key = ";", name = "LibreOffice"        },
-    { key = "'", name = "PDF Reader X"       },
 
     { key = "Z", name = "Freeplane"          },
     { key = "X", name = "Xcode"              },
